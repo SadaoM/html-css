@@ -1,3 +1,4 @@
+[site]
 [SITE]
 Curiosidades de Tecnologia
 
